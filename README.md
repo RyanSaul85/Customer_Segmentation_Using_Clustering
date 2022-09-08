@@ -10,3 +10,23 @@
 - How you chose your model specification and what alternatives you compared it to
 - The practical uses of your model for an audience of interest
 - Any weak points or shortcomings of your model
+
+#### The Process
+- Data
+  - Load using pandas
+  - Understanding
+  - Cleaning
+- Visualizations
+  - Continuous
+  - Categorical
+- Clustering and Dimensionality Reduction
+  - Elbow Method
+  - K-Means Clustering
+  - Hierarchical Clustering
+  - Gaussian
+  - DBSCAN
+  - PCA
+  - t_SNE
+  - UMAP
+
+### Answers and Conclusions
