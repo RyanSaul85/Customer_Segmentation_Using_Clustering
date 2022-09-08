@@ -1,6 +1,6 @@
 # Customer Segmentation Using Clustering
 
-### Questions to answer:
+### Questions to answer
 
 - Your end user and the value that your project provides to them
 - Quantifiable results based on the research that you've conducted
